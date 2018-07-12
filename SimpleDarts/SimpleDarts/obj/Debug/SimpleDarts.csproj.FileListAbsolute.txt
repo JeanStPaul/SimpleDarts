@@ -1,0 +1,8 @@
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\SimpleDarts\bin\SimpleDarts.dll.config
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\SimpleDarts\bin\SimpleDarts.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\SimpleDarts\bin\SimpleDarts.pdb
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\SimpleDarts\bin\Darts.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\SimpleDarts\bin\Darts.pdb
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\SimpleDarts\obj\Debug\SimpleDarts.csprojResolveAssemblyReference.cache
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\SimpleDarts\obj\Debug\SimpleDarts.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\SimpleDarts\obj\Debug\SimpleDarts.pdb

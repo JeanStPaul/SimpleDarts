@@ -1,0 +1,10 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleDarts\Darts\bin\Debug\Darts.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleDarts\Darts\obj\Debug\Darts.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleDarts\Darts\obj\Debug\Darts.pdb
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\SimpleDarts\Darts\obj\Debug\Darts.pdb
